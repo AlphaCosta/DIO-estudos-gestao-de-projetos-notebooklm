@@ -63,3 +63,22 @@ Com base nas fontes estudadas, foram produzidos os seguintes materiais:
 - **Arquivo Word com perguntas e respostas** para revisão do conteúdo.
 
 Esses materiais ajudaram a transformar a teoria em recursos mais práticos e acessíveis para estudo e revisão.
+
+---
+
+## Estrutura do Repositório
+```bash
+📁 DIO-estudos-gestao-de-projetos-notebooklm
+├── assets/
+│ ├── NotebookLM Mind Map (3).png
+│ ├── NotebookLM Mind Map (4).png
+│ ├── Infografico.png
+├── fontes/
+│ ├── GerenciaDeProjeos_modulo_1_final_.pdf
+│ ├── guia-para-gerenciamente-de-projetos.pdf
+│ └── Ebook-gestao-de-projetos-v01a-19-04-2023-compressed.pdf
+├── materiais/
+│ ├── Project_Management_Blueprint.pptx
+│ ├── Guia_Básico_de_Gestão_de_Projetos.mp4
+│ └── Perguntas e Respostas.docx
+├── README.md
